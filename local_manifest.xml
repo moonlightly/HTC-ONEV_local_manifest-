@@ -26,7 +26,6 @@
   <project path="prebuilts/misc" name="Mustaavalkosta/android_prebuilts_misc" revision="jb-mv" />
   <project path="vendor/qcom/proprietary" name="Mustaavalkosta/android_vendor_qcom_proprietary" revision="cm-10.1" />
 
-</manifest>
   <!-- Rukin5197 -->
 
   <project path="kernel/htc/primoc" name="rukin5197/android_kernel_htc_primoc" remote="github" revision="jellybean" />
