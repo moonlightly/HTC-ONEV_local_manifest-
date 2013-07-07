@@ -26,15 +26,14 @@
   <project path="vendor/htc/primoc" name="rukin5197/android_vendor_htc_primoc" remote="github" revision="cm-10.1" />
 
   <!--MaxwenKernel -->
-  <project path="kernel/htc/primou" name="maxwen/primou-kernel-HELLBOY" remote="github" revision="master" />
+  <project path="kernel/htc/primou" name="rukin5197/primou-kernel-HELLBOY" remote="github" revision="master" />
 
 
   <!-- Touchpro -->
   <project path="device/htc/primoc" name="touchpro/android_device_htc_primoc" remote="github" revision="cm-10.1" />
 
-  <!-- TouchproGSM -->
-  <project path="device/htc/primou" name="touchpro/android_device_htc_primou" remote="github" revision="master" />
-  <project path="vendor/htc/primou" name="touchpro/android_vendor_htc_primou" remote="github" revision="master" />
-  <project path="device/htc/msm7x30-common" name="touchpro/android_device_htc_msm7x30-common" revision="master" />
-
+  <!-- rukinGSM -->
+  <project path="device/htc/primou" name="rukin5197/android_device_htc_primou" remote="github" revision="master" />
+  <project path="vendor/htc/primou" name="rukin5197/android_vendor_htc_primou" remote="github" revision="master" />
+  <project path="device/htc/msm7x30-common" name="rukin5197/android_device_htc_msm7x30-common" revision="master" />
 </manifest>
